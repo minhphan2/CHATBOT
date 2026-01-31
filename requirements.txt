@@ -1,0 +1,16 @@
+pyyaml
+pymilvus
+requests
+openai
+python-docx
+pdfplumber
+pdf2image
+pillow
+pytesseract
+beautifulsoup4
+uvicorn
+fastapi
+python-multipart
+python-dotenv
+groq
+sentence-transformers

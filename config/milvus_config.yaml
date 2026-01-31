@@ -1,0 +1,3 @@
+host: "localhost"
+port: 19530
+collection_name: "hvnh_documents"

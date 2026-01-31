@@ -1,0 +1,14 @@
+[2026-01-30 10:24:46] Query Milvus | domain=course | top_k=5
+[2026-01-30 10:24:48] Query External Service | domain=course
+[2026-01-30 10:27:40] Query Milvus | domain=subject | top_k=5
+[2026-01-30 10:27:41] Query External Service | domain=subject
+[2026-01-30 10:30:36] Query Milvus | domain=scholarship | top_k=5
+[2026-01-30 10:30:36] Query External Service | domain=scholarship
+[2026-01-30 10:36:20] Query Milvus | domain=scholarship | top_k=5
+[2026-01-30 10:36:20] Query External Service | domain=scholarship
+[2026-01-30 10:36:38] Query Milvus | domain=subject | top_k=5
+[2026-01-30 10:36:38] Query External Service | domain=subject
+[2026-01-30 10:37:08] Query Milvus | domain=subject | top_k=5
+[2026-01-30 10:37:08] Query External Service | domain=subject
+[2026-01-30 10:38:32] Query Milvus | domain=subject | top_k=5
+[2026-01-30 10:38:32] Query External Service | domain=subject
